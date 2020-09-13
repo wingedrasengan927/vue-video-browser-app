@@ -2,6 +2,9 @@
 
 A video app built with VueJS which uses the youtube api to search, display and play videos. This is inspired from Stephen Griders Udemy Course on VueJS.
 
+![Imgur](https://i.imgur.com/CIw9Sx6.png)
+
+
 ## Project setup
 
 ```
